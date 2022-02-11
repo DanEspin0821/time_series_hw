@@ -5,5 +5,5 @@
 ![SearchVolume](Images/searchvol.JPG)
 * Based on visual above, it appears over the weekends, there is a drop in search volume.
 
-![SearchVolume](Images/combocharts.JPG)
-* Based on visual above, it appears over the weekends, there is a drop in search volume.
+![combocharts](Images/combocharts.JPG)
+* Search traffic appears to trend higher between weeks 42 and 51, indicating seasonality by week for search traffic.  Traffic drops in week 52 and week 1, which could be due to the Holiday's and less people are using search engines.
