@@ -7,3 +7,6 @@
 
 ![combocharts](Images/combocharts.JPG)
 * Search traffic appears to trend higher between weeks 42 and 51, indicating seasonality by week for search traffic.  Traffic drops in week 52 and week 1, which could be due to the Holiday's and less people are using search engines.
+
+![price_search_trends](Images/price_search_trends.JPG)
+* Both time series above indicate a common trend that’s consistent with the notion there is correlation between search trends and price. There's a drop in search and stock price between late February and mid-march.  Following sequentially, the search volume recovers and exceeds its previous levels beginning mid-March (3/13/2020) and the stock price bottoming out betwen mid-March and the beginning of April before an uptrend that lasts through the end of the dataset.
