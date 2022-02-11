@@ -16,4 +16,6 @@
 
 ![seasonality](Images/seasonality.JPG)
 * Quick observations on the above.
--The very beginning and very end of the day is most popular in search history
+  1. The very beginning and very end of the day is most popular in search history
+  2. Tuesday is the most popular day of the week that recieves the most traffic
+  3. The lowest point in search history appears to be around mid to late October
