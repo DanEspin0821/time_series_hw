@@ -4,3 +4,6 @@
 
 ![SearchVolume](Images/searchvol.JPG)
 * Based on visual above, it appears over the weekends, there is a drop in search volume.
+
+![SearchVolume](Images/combocharts.JPG)
+* Based on visual above, it appears over the weekends, there is a drop in search volume.
