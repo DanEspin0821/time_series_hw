@@ -1,12 +1,8 @@
 # Unit 10: Forecasting Net Prophet
 
-![Decorative image.](Images/unit-10-readme-photo.png)
-
 ## Background
 
-You’re a growth analyst at [MercadoLibre](http://investor.mercadolibre.com/investor-relations). With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. You've been tasked with analyzing the company's financial and user data in clever ways to help the company grow. So, you want to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock.
-
-In a bid to drive revenue, you’ll produce a Jupyter notebook that contains your data preparation, your analysis, and your visualizations for all the time series data that the company needs to understand. You’ll use text and comments to document your findings. And, you’ll answer the question prompts in the instructions. Specifically, this notebook should contain the following:
+Produce a Jupyter notebook that contains your data preparation, your analysis, and your visualizations for all the time series data that the company needs to understand. 
 
 - Visual depictions of seasonality (as measured by Google Search traffic) that are of interest to the company.
 
@@ -27,18 +23,6 @@ You’ll gain proficiency in the following tasks:
 - Mining for patterns in seasonality by using visualizations.
 
 - Building sales-forecast and user-interest predictive models.
-
----
-
-## Files
-
-Download the following files to help you get started:
-
-[Forecasting Net Prophet notebook](Starter_Code/forecasting_net_prophet.ipynb)
-
-[Data files](Starter_code/Resources)
-
----
 
 ## Instructions
 
