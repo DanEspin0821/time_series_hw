@@ -10,3 +10,6 @@
 
 ![price_search_trends](Images/price_search_trends.JPG)
 * Both time series above indicate a common trend that’s consistent with the notion there is correlation between search trends and price. There's a drop in search and stock price between late February and mid-march.  Following sequentially, the search volume recovers and exceeds its previous levels beginning mid-March (3/13/2020) and the stock price bottoming out betwen mid-March and the beginning of April before an uptrend that lasts through the end of the dataset.
+
+![prhophet](Images/prophet.JPG)
+* Using Prohet to predict the trend; Prophet projects a downtrend in popularity for MercadoLibre Search for the 80 day projection followed by a rebound during the latter half of the projection period.
